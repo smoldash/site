@@ -1,4 +1,4 @@
 char const* greet()
 {
-	reutrn "Hello, World";
+	reutrn "hello, world";
 }
