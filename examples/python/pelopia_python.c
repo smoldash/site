@@ -1,5 +1,5 @@
 
-#include <Dataset.h>
+#include <pelopia/Dataset.h>
 #include <pelopia/Response.h>
 #include <pelopia/GeoJSON.h>
 
